@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://github.com/kaushikbuddy28/kaushik/blob/master/31536000.1756414828948.GBMomIsom3lbZsFsVs28CaGOd69YQbBdOZTjRQX7+Po=.jpg?raw=true"
+              src="https://postimg.cc/fJ1cDCP9"
               alt="KAUSHIK CHATURVEDI"
               width="192"
               height="192"
