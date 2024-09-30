@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://postimg.cc/fJ1cDCP9"
+              src="https://www.canva.com/design/DAGSO_1btj8/Sw1hr_StZLpV-WN2i3PDfw/view?utm_content=DAGSO_1btj8&utm_campaign=designshare&utm_medium=link&utm_source=editor"
               alt="KAUSHIK CHATURVEDI"
               width="192"
               height="192"
