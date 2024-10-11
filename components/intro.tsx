@@ -31,8 +31,8 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://photos.google.com/photo/AF1QipMXWrZAawYCMJayE2LdXh4h84qPBURgoCx6wxp5"
-              alt="KAUSHIK CHATURVEDI"
+              src=""
+              alt="KAUSHIK CHATURVEDI 123"
               width="192"
               height="192"
               quality="95"
