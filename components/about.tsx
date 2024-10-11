@@ -19,7 +19,7 @@ export default function About() {
     >
       <SectionHeading>About Me</SectionHeading>
       <p className="mb-3">
-        Hello, I'm <span className="font-bold">Kaushik Chaturvedi 123</span>. I aim to enhance my professional skills, capabilities, and knowledge in an organization that values hard work and trusts me with responsibilities and challenges. With a background in{" "}
+        Hello, I'm <span className="font-bold">Kaushik Chaturvedi</span>. I aim to enhance my professional skills, capabilities, and knowledge in an organization that values hard work and trusts me with responsibilities and challenges. With a background in{" "}
         <span className="font-medium">Android deployment</span> and{" "}
         <span className="font-medium">Artificial Intelligence and Machine Learning</span>, I have gained practical experience through internships at Wayspire and IBM. Currently pursuing a B.Tech in information Technology from Silver Oak University, I am passionate about{" "}
         <span className="italic">Java & AI</span> and skilled in{" "}
